@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.blog-item-container {
+  display: flex;
+  margin: 10px;
+}
+.images {
+  height: 30vh;
+  width: 20vw;
+  border-radius: 5px;
+}
+.column-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.row-container {
+  display: flex;
+}
+.avatar-image {
+  height: 4vh;
+  width: 2vw;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.topic {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  margin: 0px;
+}
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+}
